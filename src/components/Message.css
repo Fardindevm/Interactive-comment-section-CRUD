@@ -1,0 +1,53 @@
+.message {
+  display: flex;
+  justify-content: space-between;
+}
+
+.margin {
+  margin-bottom: 20px;
+}
+
+.message-avatar {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+.message-textarea {
+  width: 75%; 
+  border: 1px solid hsl(240, 4%, 87%);
+  resize: none;
+  padding: 12px 20px;
+  border-radius: 10px;
+  scrollbar-color: var(--Moderate-blue) #f1f1f1;
+  scrollbar-width:thin;
+}
+
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 13px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--Moderate-blue);
+  border-radius: 13px;
+  border: 3px solid #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--Dark-blue);
+}
+
+.submit-message-btn {
+  background: var(--Moderate-blue);
+  height: 40px;
+  padding-inline: 26px;
+  border: none;
+  cursor: pointer;
+  color: var(--White);
+  border-radius: 6px;
+}
