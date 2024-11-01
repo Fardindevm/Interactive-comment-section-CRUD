@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Interactive-comment-section-CRUD/static/css/main.275b1b77.css",
+    "main.js": "/Interactive-comment-section-CRUD/static/js/main.11186a46.js",
+    "index.html": "/Interactive-comment-section-CRUD/index.html",
+    "static/media/up-arrow-svgrepo-com.svg": "/Interactive-comment-section-CRUD/static/media/up-arrow-svgrepo-com.4c6abf93e5f81056680a18aefc73d87e.svg",
+    "static/media/icon-plus.svg": "/Interactive-comment-section-CRUD/static/media/icon-plus.0037a825a550965779412c2890bd328b.svg",
+    "static/media/icon-edit.svg": "/Interactive-comment-section-CRUD/static/media/icon-edit.b0c7f9ebaec367bd3ae2539df8b55ff9.svg",
+    "static/media/icon-reply.svg": "/Interactive-comment-section-CRUD/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
+    "static/media/icon-minus.svg": "/Interactive-comment-section-CRUD/static/media/icon-minus.4aa6933cb1575b3c54fa67d84a61efaf.svg",
+    "static/media/icon-delete.svg": "/Interactive-comment-section-CRUD/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
+    "main.275b1b77.css.map": "/Interactive-comment-section-CRUD/static/css/main.275b1b77.css.map",
+    "main.11186a46.js.map": "/Interactive-comment-section-CRUD/static/js/main.11186a46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.275b1b77.css",
+    "static/js/main.11186a46.js"
+  ]
+}
